@@ -4,11 +4,11 @@
 <name>Youtube Live Channels</name>
 <description>Youtube Live Channels</description>
 <encryption>No</encryption>
-<channel_logo>https://dl.dropboxusercontent.com/s/qu6cb86w5zgzzi4/live.PNG?dl=0</channel_logo>
+<channel_logo>https://lh3.googleusercontent.com/a-/AAuE7mB21PLk9tdB2hfxlyllOLzKDVCU4TVh3rkj4icAnw=s96</channel_logo>
 <refresh_type>Auto</refresh_type>
 <refresh_time>86400</refresh_time>
 <mastertype>Live</mastertype>
 <category_view>2-TierView</category_view>
-<base_url>https://dl.dropboxusercontent.com/s/hbc0ctq4s7b5qjo/LiveTier1.txt?dl=0</base_url>
+<base_url>https://www.youtube.com/channel/UC10AbAYia4qhQWiYZguHeXw/live</base_url>
 </channel>
 </xml>
