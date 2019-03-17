@@ -9,6 +9,6 @@
 <refresh_time>86400</refresh_time>
 <mastertype>Live</mastertype>
 <category_view>2-TierView</category_view>
-<base_url>https://www.youtube.com/channel/UC10AbAYia4qhQWiYZguHeXw/live</base_url>
+<base_url>https://www.youtube.com/watch?v=ZtGIQZtCyk0</base_url>
 </channel>
 </xml>
