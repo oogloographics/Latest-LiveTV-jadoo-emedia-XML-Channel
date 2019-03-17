@@ -9,6 +9,6 @@
 <refresh_time>86400</refresh_time>
 <mastertype>Live</mastertype>
 <category_view>2-TierView</category_view>
-<base_url>https://github.com/oogloographics/tier1/blob/master/tier1list.txt</base_url>
+<base_url>http://www.a1vinny.com/A1Vinny/tier1list.txt</base_url>
 </channel>
 </xml>
