@@ -1,7 +1,7 @@
 <xml>
 <channel>
 <version>1.0</version>
-<name>Youtube Live Channels</name>
+<name>Roshni HD TV</name>
 <description>Youtube Live Channels</description>
 <encryption>No</encryption>
 <channel_logo>https://lh3.googleusercontent.com/a-/AAuE7mB21PLk9tdB2hfxlyllOLzKDVCU4TVh3rkj4icAnw=s96</channel_logo>
